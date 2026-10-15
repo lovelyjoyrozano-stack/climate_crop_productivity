@@ -1,17 +1,15 @@
-# climate_crop_productivity_system
+# A Random Regression-Based Climate and Crop Productivity Monitoring and Decision Support System for Farmers
 
-A new Flutter project.
+## Group Information
+- **Course & Section:** IT 110 Web Systems and Technologies[cite: 1]
+- **Instructor:** JEAN VILLASIN, MIT[cite: 1]
+- **System Title:** A Random Regression-Based Climate and Crop Productivity Monitoring and Decision Support System for Farmers
 
-## Getting Started
+## Technology Stack
+- Flutter Web (Dart Framework)[cite: 4, 9]
+- Git & GitHub Version Control[cite: 4, 15]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run the Project
+```bash
+flutter pub get
+flutter run -d chrome
